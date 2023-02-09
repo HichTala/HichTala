@@ -17,7 +17,7 @@ Looking for a research internship. :briefcase:
 ## Projects :computer:
 
 - :art: Generating Logos using the DALL-E Model: This project involved creating a dataset using internet images and descriptions, then fine-tuning the DALL-E model on this dataset. (Python, PyTorch)
-[Link to project](https://github.com/your-username/dalle-logo-generation)
+[Link to project](https://github.com/HichTala/diffusion-model-for-logo-generation)
 
 - :card_index: Card Detection and Recognition Algorithm: Developed an algorithm for detecting and recognizing collectible and playing cards, proposed for a 3D modeling project. This involved creating a dataset and fine-tuning a state-of-the-art model. (Python, PyTorch)
 [Link to project for detection](https://github.com/HichTala/mmdetection_yugioh)
