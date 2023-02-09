@@ -8,7 +8,7 @@ Looking for a research internship. :briefcase:
 ## Skills :bulb:
 
 Programming Languages:
-- Python :snake:
+- Python :snake:  - Java :coffee:
 - Java :coffee:
 - C++
 - R
