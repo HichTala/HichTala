@@ -10,9 +10,8 @@ Looking for a research internship. :briefcase:
 Programming Languages:
 - Python :snake:
 - Java :coffee:
-- C++ :cplusplus:
-- C :c:
-- R :r:
+- C++
+- R
 - HTML :page_facing_up:
 - CSS :page_with_curl:
 
