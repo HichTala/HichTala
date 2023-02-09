@@ -2,7 +2,7 @@
 
 # Hicham Talaoubrid :wave:
 
-A passionate Engineering student with a focus on AI and vision. :robot: 👀:
+A passionate Engineering student with a focus on AI and vision. :robot: 👀
 Looking for a research internship. :briefcase:
 
 ## Skills :bulb:
