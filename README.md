@@ -42,8 +42,8 @@ List the projects you want to showcase, including:
 
 ## Contact :email:
 
-- Email: your email address
-- LinkedIn: [Your LinkedIn profile link](https://linkedin.com/in/your-profile) :necktie:
+- Email: hicham.talaoubrid@mines-ales.org
+- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/hicham-talaoubrid/) :necktie:
 - Twitter: [Your Twitter handle](https://twitter.com/your-handle) :bird:
 - Other social media or websites you want to include (optional)
 
