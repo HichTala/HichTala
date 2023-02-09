@@ -2,7 +2,7 @@
 
 # Hicham Talaoubrid :wave:
 
-A passionate Engineering student with a focus on AI and vision. :robot: :eye:
+A passionate Engineering student with a focus on AI and vision. :robot: 👀:
 Looking for a research internship. :briefcase:
 
 ## Skills :bulb:
@@ -32,9 +32,6 @@ Databases:
 - Oracle :symbols:
 - MongoDB :floppy_disk:
 
-## Projects :computer:
-
-## Projects :computer:
 
 ## Projects :computer:
 
