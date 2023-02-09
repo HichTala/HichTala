@@ -34,18 +34,18 @@ Databases:
 
 ## Projects :computer:
 
-List the projects you want to showcase, including:
+## Projects :computer:
 
-- Project name: A brief description of the project and what it does.
-- Link to the project repository :link:
-- Screenshots or demo gifs (optional) :camera:
+- Generating Logos using the DALL-E Model: This project involved creating a dataset using internet images and descriptions, then fine-tuning the DALL-E model on this dataset. (Python, PyTorch)
+- Card Detection and Recognition Algorithm: Developed an algorithm for detecting and recognizing collectible and playing cards, proposed for a 3D modeling project. This involved creating a dataset and fine-tuning a state-of-the-art model. (Python, PyTorch)
+- Determining Key Factors for Winning in League of Legends: Used machine learning to determine the most important factors for winning in the popular video game League of Legends. This "artificial intelligence" can be used by professional players during their training to focus on the truly influential factors. (Python, pandas, scikit learn) - 2022
+- Scientific Article on Color Spaces and Similarity Functions for Fish-eye Camera Tracking: Submitted to the MDPI Journal Imaging, a scientific article comparing different color spaces with different similarity functions in the context of fish-eye camera tracking. (C++) - 2022
+
 
 ## Contact :email:
 
 - Email: hicham.talaoubrid@mines-ales.org
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/hicham-talaoubrid/) :necktie:
-- Twitter: [Your Twitter handle](https://twitter.com/your-handle) :bird:
-- Other social media or websites you want to include (optional)
+- LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) :necktie:
 
 ## License :scroll:
 
