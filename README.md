@@ -29,6 +29,8 @@ Looking for a research internship. :briefcase:
 - 🧠: Scientific Article on Color Spaces and Similarity Functions for Fish-eye Camera Tracking: Submitted to the MDPI Journal Imaging, a scientific article comparing different color spaces with different similarity functions in the context of fish-eye camera tracking. (C++) - 2022
 [Link to article](https://hal.mines-ales.fr/hal-03653718/document)
 
+## Publications :books:
+- [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing](https://www.mdpi.com/journal/jimaging) - [2022]() - [Cite](javascript:window.document.forms['export-bibtex'].submit())
 
 ## Contact :email:
 
@@ -37,5 +39,5 @@ Looking for a research internship. :briefcase:
 
 ## License :scroll:
 
-MIT License
+All my projects are released under the MIT License. If you find them useful please feel free to drop me a note and cite the repositories.
 
