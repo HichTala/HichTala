@@ -30,7 +30,7 @@ Looking for a research internship. :briefcase:
 [Link to article](https://hal.mines-ales.fr/hal-03653718/document)
 
 ## Publications :books:
-- [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing 2022](https://www.mdpi.com/journal/jimaging) - [Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:PSmkQmmJkXYJ:scholar.google.com/&output=citation&scisdr=CgVUqVZXEKuAlnsplNE:AAGBfm0AAAAAY-UvjNGIYTSbdh0NoOXBA6udksHVhEhP&scisig=AAGBfm0AAAAAY-UvjFvKeEU8gAeq6gXTJU9GvW1aDI_F&scisf=4&ct=citation&cd=-1&hl=fr)
+- [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing 2022](https://www.mdpi.com/journal/jimaging) - [🔗 Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:PSmkQmmJkXYJ:scholar.google.com/&output=citation&scisdr=CgVUqVZXEKuAlnsplNE:AAGBfm0AAAAAY-UvjNGIYTSbdh0NoOXBA6udksHVhEhP&scisig=AAGBfm0AAAAAY-UvjFvKeEU8gAeq6gXTJU9GvW1aDI_F&scisf=4&ct=citation&cd=-1&hl=fr)
 
 ## Contact :email:
 
