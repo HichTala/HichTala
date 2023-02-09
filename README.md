@@ -1,9 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-# Hicham Talaoubrid :wave:
-
-A passionate Engineering student with a focus on AI and vision. :robot: 👀
+I'm Hicham Talaoubrid a passionate Engineering student with a focus on AI and vision. :robot: 👀
 Looking for a research internship. :briefcase:
+
+## Skills :nerd_face:
+### Programming languages
+- :snake: Python, :coffee: Java, :guardsman: C++, :computer: C, :chart_with_upwards_trend: R, :globe_with_meridians: HTML, :sparkles: CSS
+
+### Libraries & Frameworks
+- :chart_with_upwards_trend: Pandas, :microscope: Scikit learn, :art: MatplotLib, :ocean: Seaborn, :eyeglasses: OpenCV, :rocket: Numpy, :spider_web: Selenium, :fire: PyTorch, :cloud: TensorFlow, :bar_chart: Plotly
+
+### Databases
+- :floppy_disk: MySQL, :file_folder: Oracle, :file_cabinet: MongoDB
+
 
 ## Skills :bulb:
 
