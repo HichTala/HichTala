@@ -26,7 +26,7 @@ Looking for a research internship. :briefcase:
 - :video_game: Determining Key Factors for Winning in League of Legends: Used machine learning to determine the most important factors for winning in the popular video game League of Legends. This "artificial intelligence" can be used by professional players during their training to focus on the truly influential factors. (Python, pandas, scikit learn) - 2022
 [Link to project](https://github.com/HichTala/LeagueOfLegends_ML_Project)
 
-- :eyeglasses: Scientific Article on Color Spaces and Similarity Functions for Fish-eye Camera Tracking: Submitted to the MDPI Journal Imaging, a scientific article comparing different color spaces with different similarity functions in the context of fish-eye camera tracking. (C++) - 2022
+- 🧠: Scientific Article on Color Spaces and Similarity Functions for Fish-eye Camera Tracking: Submitted to the MDPI Journal Imaging, a scientific article comparing different color spaces with different similarity functions in the context of fish-eye camera tracking. (C++) - 2022
 [Link to article](https://hal.mines-ales.fr/hal-03653718/document)
 
 
