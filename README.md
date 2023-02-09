@@ -8,38 +8,10 @@ Looking for a research internship. :briefcase:
 - :snake: Python, :coffee: Java, :guardsman: C++, :computer: C, :chart_with_upwards_trend: R, :globe_with_meridians: HTML, :sparkles: CSS
 
 ### Libraries & Frameworks
-- :chart_with_upwards_trend: Pandas, :microscope: Scikit learn, :art: MatplotLib, :ocean: Seaborn, :eyeglasses: OpenCV, :rocket: Numpy, :spider_web: Selenium, :fire: PyTorch, :cloud: TensorFlow, :bar_chart: Plotly
+- :panda_face: Pandas, :microscope: Scikit learn, :chart_with_upwards_trend: MatplotLib, :ocean: Seaborn, :video_camera: OpenCV, :rocket: Numpy, :spider_web: Selenium, :fire: PyTorch, :cloud: TensorFlow, :bar_chart: Plotly
 
 ### Databases
 - :floppy_disk: MySQL, :file_folder: Oracle, :file_cabinet: MongoDB
-
-
-## Skills :bulb:
-
-Programming Languages:
-- Python :snake:
-- Java :coffee:
-- C++
-- R
-- HTML :page_facing_up:
-- CSS :page_with_curl:
-
-Libraries & Frameworks:
-- Pandas :panda_face:
-- Scikit learn :book:
-- MatplotLib :chart_with_upwards_trend:
-- Seaborn :bar_chart:
-- OpenCV :video_camera:
-- Numpy :balance_scale:
-- Selenium :traffic_light:
-- PyTorch :fire:
-- TensorFlow :dizzy:
-- Plotly :chart_with_downwards_trend:
-
-Databases:
-- MySQL :floppy_disk:
-- Oracle :symbols:
-- MongoDB :floppy_disk:
 
 
 ## Projects :computer:
