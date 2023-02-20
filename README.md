@@ -34,8 +34,8 @@ Looking for a research internship. :briefcase:
 
 ## Contact :email:
 
-- Email: hicham.talaoubrid@mines-ales.org
-- LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) :necktie:
+- 📧: Email: hicham.talaoubrid@mines-ales.org
+- :necktie: LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) 
 
 ## License :scroll:
 
