@@ -32,9 +32,9 @@ Looking for a research internship. 💼
 ## Publications :books:
 - [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing 2022](https://www.mdpi.com/journal/jimaging) - [🔗 Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:PSmkQmmJkXYJ:scholar.google.com/&output=citation&scisdr=CgVUqVZXEKuAlnh4neU:AAGBfm0AAAAAY-Z-heWiK8K8sMXZjS1MFpifACTKfsmS&scisig=AAGBfm0AAAAAY-Z-hZfoVvtSc5ZN5eQe825Dn--myUq2&scisf=4&ct=citation&cd=-1&hl=fr)
 
-## Contact :email:
+## Contact 📧
 
-- 📧 Email: hicham.talaoubrid@mines-ales.org
+- 📬 Email: hicham.talaoubrid@mines-ales.org
 - 👔 LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) 
 
 ## License :scroll:
