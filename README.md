@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm Hicham Talaoubrid a passionate Engineering student with a focus on AI and vision. 🤖 👀
-Looking for a research internship. 💼
+I'm Hicham Talaoubrid a passionate Engineering student with a focus on AI and vision 🤖
 
 ## Skills 🤓
 ### Programming languages
