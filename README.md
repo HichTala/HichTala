@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm Hicham Talaoubrid a passionate Engineering student with a focus on AI and vision 🤖
-Currently seeking PhD opportunities to pursue groundbreaking research and push the boundaries of knowledge.
+I'm Hicham Talaoubrid a passionate PhD student with a focus on AI and vision, pursuing groundbreaking research and pushing the boundaries of knowledge.
 
 ## Skills 🤓
 ### Programming languages
