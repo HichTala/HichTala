@@ -2,17 +2,6 @@
 
 I'm Hicham Talaoubrid a passionate PhD student with a focus on AI and vision, pursuing groundbreaking research and pushing the boundaries of knowledge.
 
-## Skills 🤓
-### Programming languages
-- 🐍 Python, ☕ Java, 💂‍♂️ C++, 💻 C, 📈 R, 🌐 HTML, ✨ CSS
-
-### Libraries & Frameworks
-- 🐼 Pandas, 🔬 Scikit learn, 📈 MatplotLib, 🇮🇴 Seaborn, 📹 OpenCV, 🚀 Numpy, 🕸️ Selenium, 🔥 PyTorch, ☁️ TensorFlow, 📊 Plotly
-
-### Databases
-- 💾 MySQL, 📁 Oracle, 🗄️ MongoDB
-
-
 ## Projects :computer:
 
 - 🎨 Generating Logos using the DALL-E Model: This project involved creating a dataset using internet images and descriptions, then fine-tuning the DALL-E model on this dataset. (Python, PyTorch)
