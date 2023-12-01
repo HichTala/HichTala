@@ -22,7 +22,7 @@ I'm Hicham Talaoubrid a passionate PhD student with a focus on AI and vision, pu
 
 ## Contact 📧
 
-- 📬 Email: hicham.talaoubrid@mines-ales.org
+- 📬 Email: h.talaoubrid0@gmail.com
 - 👔 LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) 
 
 ## License :scroll:
