@@ -20,11 +20,6 @@ I'm Hicham Talaoubrid a passionate PhD student with a focus on AI and vision, pu
 ## Publications :books:
 - [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing 2022](https://www.mdpi.com/journal/jimaging)
 
-## Contact 📧
-
-- 📬 Email: h.talaoubrid0@gmail.com
-- 👔 LinkedIn: [in/hicham-talaoubrid/](https://www.linkedin.com/in/hicham-talaoubrid/) 
-
 ## License :scroll:
 
 All my projects are released under the MIT License. If you find them useful please feel free to drop me a note and cite the repositories.
