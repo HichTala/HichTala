@@ -8,8 +8,7 @@ I'm Hicham a passionate PhD student with a focus on AI and vision, pursuing grou
 [Link to project](https://github.com/HichTala/diffusion-model-for-logo-generation)
 
 - 📇 Card Detection and Recognition Algorithm: Developed an algorithm for detecting and recognizing collectible and playing cards, proposed for a 3D modeling project. This involved creating a dataset and fine-tuning a state-of-the-art model. (Python, PyTorch)
-[Link to project for detection](https://github.com/HichTala/draw) - 
-[Link to project for classification](https://github.com/HichTala/yugioh-card-classification)
+[Link to project](https://github.com/HichTala/draw)
 
 - 🎮 Determining Key Factors for Winning in League of Legends: Used machine learning to determine the most important factors for winning in the popular video game League of Legends. This "artificial intelligence" can be used by professional players during their training to focus on the truly influential factors. (Python, pandas, scikit learn) - 2022
 [Link to project](https://github.com/HichTala/LeagueOfLegends_ML_Project)
