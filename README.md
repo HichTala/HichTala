@@ -18,7 +18,7 @@ I'm Hicham a passionate PhD student with a focus on AI and vision, pursuing grou
 
 ## Publications :books:
 - [Human tracking in top-view fisheye images: analysis of familiar similarity measures via hog and against various color spaces](https://hal.mines-ales.fr/hal-03653718/document) - [Journal of Imaing 2022](https://www.mdpi.com/journal/jimaging)
-- [Straightforward Adaptation of Particle Filter to Fish Eye Images for Top View Pedestrian Tracking]([https://imt-mines-ales.hal.science/hal-04554295/file/straightforward-adaptation-of-particle-filter.pdf](https://ieeexplore.ieee.org/document/10446632)) - [ICASSP 2024](https://2024.ieeeicassp.org/)
+- [Straightforward Adaptation of Particle Filter to Fish Eye Images for Top View Pedestrian Tracking](https://ieeexplore.ieee.org/document/10446632) - [ICASSP 2024](https://2024.ieeeicassp.org/)
 
 ## License :scroll:
 
